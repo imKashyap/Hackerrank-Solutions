@@ -8,6 +8,7 @@
 |[Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array)|[Solution](./Data%20Structures/Arrays/DynamicArray.java)|
 |[Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation)|[Solution](Data%20Structures/Arrays/LeftRotation.java)|
 |[Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays)|[Solution](./Data%20Structures/Arrays/SparseArrays.java)|
+|[Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)|[Solution](./Data%20Structures/Arrays/ArrayManipulation.java)|
 |**Linked Lists**||
 |[Print the elements of a Linked List](Data%20Structures/Linked%20Lists/PrinttheElementsofaLinkedList.java)| [Solution](./Data%20Structures/Linked%20Lists/PrinttheElementsofaLinkedList.java)|
 | [Insert a node at the head of a Linked List](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list)|[Solution](./Data%20Structures/Linked%20Lists/Insertanodeattheheadofalinkedlist.java)|
