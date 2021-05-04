@@ -18,6 +18,8 @@
 |[Print in Reverse](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem) |[Solution](./Data%20Structures/Linked%20Lists/PrintInReverse.java)|
 |[Reverse a linked list](https://www.hackerrank.com/challenges/reverse-a-linked-list) |[Solution](./Data%20Structures/Linked%20Lists/ReverseALinkedList.java)|
 |[Compare two linked lists](https://www.hackerrank.com/challenges/compare-two-linked-lists) |[Solution](./Data%20Structures/Linked%20Lists/CompareTwoLinkedList.java)|
+|[Merge two sorted linked lists](https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists/problem) |[Solution](./Data%20Structures/Linked%20Lists/MergeTwoSortedLinkedList.java)|
+|[Get Node Value](https://www.hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail/problem) |[Solution](./Data%20Structures/Linked%20Lists/GetNodeValue.java)|
 |**Warmup**||
 |[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first)|[Solution](./Algorithms/Warmup/SolveMeFirst.c)|
 |[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)|[Solution](./Algorithms/Warmup/SimpleArraySum.c)|
