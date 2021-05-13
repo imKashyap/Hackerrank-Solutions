@@ -21,7 +21,9 @@
 |[Merge two sorted linked lists](https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists/problem) |[Solution](./Data%20Structures/Linked%20Lists/MergeTwoSortedLinkedList.java)|
 |[Get Node Value](https://www.hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail/problem) |[Solution](./Data%20Structures/Linked%20Lists/GetNodeValue.java)|
 |[Delete duplicate-value nodes from a sorted linked list](https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list/problem)|[Solution](./Data%20Structures/Linked%20Lists/DeleteDuplicateNodes.java)|
-|[Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem)|[Solution](./Data%20Structures/Linked%20Lists/CycleDetection.java)
+|[Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem)|[Solution](./Data%20Structures/Linked%20Lists/CycleDetection.java)|
+|[Inserting a Node Into a Sorted Doubly Linked List](https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem)|[Solution](./Data%20Structures/Linked%20Lists/InsertingNodeIntoSortedDoublyList.java)|
+|[Reverse a Doubly Linked List](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem)|[Solution](./Data%20Structures/Linked%20Lists/ReverseDoublyLinkedList.java)|
 |**Warmup**||
 |[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first)|[Solution](./Algorithms/Warmup/SolveMeFirst.c)|
 |[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)|[Solution](./Algorithms/Warmup/SimpleArraySum.c)|
@@ -29,3 +31,4 @@
 |[Find Merge Point of Two Lists](https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/problem)|[Solution](./Data%20Structures/Linked%20Lists/FindMergeNode.java)
 |**Greedy**||
 |[Candies](https://www.hackerrank.com/challenges/candies/problem)|[Solution](./Algorithms/Greedy/Candies.java)|
+
